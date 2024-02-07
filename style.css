@@ -122,3 +122,9 @@ main {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+
+.sorter {
+  width: 90%;
+  margin: 0 auto;
+  padding: 6px;
+}
